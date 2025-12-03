@@ -3,3 +3,5 @@ sqlalchemy
 flask-sqlalchemy
 flask-login
 werkzeug
+
+
